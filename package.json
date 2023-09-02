@@ -3,6 +3,7 @@
   "author": "Alex Scott",
   "description": "A backend project",
   "keywords": ["node","js","express","freecodecamp"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
