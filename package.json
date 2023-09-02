@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
   "author": "Alex Scott",
   "description": "A backend project",
-  "keywords": ["node","js","express"],
+  "keywords": ["node","js","express","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
